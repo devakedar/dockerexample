@@ -19,3 +19,24 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Release\netcoreapp3.1\staticwebasset
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Release\netcoreapp3.1\Dockersampleconfig.dll
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Release\netcoreapp3.1\Dockersampleconfig.pdb
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Release\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.exe
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.deps.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Deva\source\repos\dockrsample\bin\Release\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.xml
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Deva\source\repos\dockrsample\obj\Release\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache

@@ -6,11 +6,11 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: Dockersampleconfig
+      app: practicecheck
   template:
     metadata:
       labels:
-        app: Dockersampleconfig
+        app: practicecheck
     spec:
       containers:
       - name: dockersamplerepos
@@ -30,4 +30,4 @@ spec:
   ports:
   - port: 80
   selector:
-    app: Dockersampleconfig
+    app: practicecheck
